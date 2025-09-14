@@ -24,7 +24,7 @@ Azarya Kairossutan Sacri Pusaka DAMI - Food Management System (Restaurant)
    |
    v
 [AKSES MENU]
-   - User kirim request GET /menu dengan token
+   - User kirim request POST /menu/find-all dengan token login
    - System validasi token
    - Jika valid → tampilkan daftar menu | menambah dan edit daftar menu
    - Jika tidak valid → return Unauthorized (401)
