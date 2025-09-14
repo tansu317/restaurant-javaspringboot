@@ -6,7 +6,7 @@ Azarya Kairossutan Sacri Pusaka DAMI - Food Management System (Restaurant)
 
    |
    v
-[REGISTER USER]
+[REGISTER USER - Tanpa Authentication Token JWT]
    - User isi nama, email, username, password, role
    - System validasi data
    - System simpan user baru ke database
